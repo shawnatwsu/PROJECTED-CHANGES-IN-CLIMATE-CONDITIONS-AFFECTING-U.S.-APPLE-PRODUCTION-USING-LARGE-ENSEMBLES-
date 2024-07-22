@@ -1,0 +1,2 @@
+cdo    remapbil: Bilinear weights from lonlat (1386x585) to lonlat (60x30) grid, with source mask (483879)
+cdo    remapbil: Bilinear weights from lonlat (1386x585) to lonlat (360x180) grid, with source mask (483879)
